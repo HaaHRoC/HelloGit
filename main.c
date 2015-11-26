@@ -2,6 +2,6 @@
 
 int main(int argc, char * argv[])
 {
-  printf("Hello GIT");
+  printf("Hello GIT!\n");
   return 0;
 }
